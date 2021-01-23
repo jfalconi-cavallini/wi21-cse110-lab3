@@ -8,11 +8,13 @@ h1 {
   border-color: green;
   border-width: medium;
   border-radius: 100px;
+  display: none;
 }
 h2 {
   border-style: dashed;
   border-width: small;
   border-radius: 100px;
+  display: block;
 }
 i {
  border-style: solid;
