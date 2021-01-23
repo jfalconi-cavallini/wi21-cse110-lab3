@@ -3,6 +3,7 @@ h1 {
   text-align: center;
   color: rgb(0,0,0);
   border-style: dotted;
+  border-color: red;
 }
 p, div {
   text-align: center;
