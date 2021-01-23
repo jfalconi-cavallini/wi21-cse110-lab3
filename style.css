@@ -27,3 +27,6 @@ a:active {
 div ul {
   background-color: yellow;
 }
+section > p {
+  background-color: yellow;
+}
