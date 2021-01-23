@@ -36,3 +36,6 @@ div ~ p {
 div + ul {
   background-color: yellow;
 }
+.courses.list {
+  background-color:yellow;
+}
