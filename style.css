@@ -17,3 +17,10 @@ p {
 a[target=_blank] {
   background-color: yellow;
 }
+a:hover {
+  color: #FF00FF;
+}
+
+a:active {
+  color: #0000FF;
+}
