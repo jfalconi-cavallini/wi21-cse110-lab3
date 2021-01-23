@@ -23,6 +23,10 @@ i {
   border-width: 30%;
   border-radius: 80px;
 }
+.courses.list{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
 p, div {
   text-align: center;
 }
