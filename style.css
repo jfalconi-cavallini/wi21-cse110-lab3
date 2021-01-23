@@ -1,10 +1,74 @@
+/* change the header to black and center the text */
 h1 {
   text-align: center;
-  color: black;
+  font-style: italic;
+  text-decoration: overline;
+  color: rgb(0,0,0);
+  border-style: dotted;
+  border-color: green;
+  border-width: medium;
+  border-radius: 100px;
+  display: none;
+  position: absolute;
 }
-p {
+h2 {
+  border-style: dashed;
+  border-width: small;
+  border-radius: 100px;
+  display: block;
+  position: relative;
+}
+i {
+ border-style: solid;
+  border-width: 30%;
+  border-radius: 80px;
+}
+p, div {
   text-align: center;
 }
 #list {
   color: gray; 
+}
+.top {
+  text-align: center;  
+}
+* {
+  text-align: center; 
+}
+a[target=_blank] {
+  background-color: yellow;
+}
+a:hover {
+  color: #FF00FF;
+}
+
+a:active {
+  color: #0000FF;
+}
+div ul {
+  background-color: yellow;
+}
+section > p {
+  background-color: yellow;
+}
+div ~ p {
+  text-align: center;  
+}
+div + ul {
+  background-color: yellow;
+}
+.courses.list {
+  background-color:yellow;
+}
+ol {
+  background-color: lightgrey;
+  width: 300px;
+  height: 150px;
+  border: 15px solid green;
+  padding: 50px 50px 50px 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-self: center;
 }
