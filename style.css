@@ -33,3 +33,6 @@ section > p {
 div ~ p {
   text-align: center;  
 }
+div + ul {
+  background-color: yellow;
+}
