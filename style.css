@@ -54,3 +54,10 @@ div + ul {
 .courses.list {
   background-color:yellow;
 }
+ul {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
