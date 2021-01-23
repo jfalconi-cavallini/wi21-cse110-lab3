@@ -1,4 +1,4 @@
-
+# Stand Up Notes for Meeting
 Name: 
 Joke of The Day:
 What they worked on since the last meeting?
