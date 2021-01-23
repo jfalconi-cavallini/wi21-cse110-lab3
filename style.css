@@ -58,6 +58,9 @@ ol {
   background-color: lightgrey;
   width: 300px;
   border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  padding: 50px 50px 50px 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
