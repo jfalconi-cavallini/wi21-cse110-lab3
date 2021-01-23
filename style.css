@@ -54,7 +54,7 @@ div + ul {
 .courses.list {
   background-color:yellow;
 }
-ul {
+ol {
   background-color: lightgrey;
   width: 300px;
   border: 15px solid green;
