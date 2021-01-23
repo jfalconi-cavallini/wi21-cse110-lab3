@@ -12,6 +12,11 @@ h2 {
   border-width: small;
   border-radius: 100px;
 }
+i {
+ border-style: solid;
+  border-width: small;
+  border-radius: 80px;
+}
 p, div {
   text-align: center;
 }
